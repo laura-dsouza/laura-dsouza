@@ -25,7 +25,7 @@ Atualmente estou me aprofundando em **desenvolvimento back-end**, mas também ad
 
 ## 📫 Onde me encontrar:
 
-- [LinkedIn](https://www.linkedin.com/in/laura-souza-040297365)
+- [LinkedIn](https://www.linkedin.com/in/laura-dsouza04)
 - ✉️ Email: laura_dsouza@outlook.com
 
 ---
