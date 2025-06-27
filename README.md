@@ -16,11 +16,6 @@ Atualmente estou me aprofundando em **desenvolvimento back-end**, mas também ad
 - **Ferramentas**: Git, GitHub, Docker, VS Code  
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=laura-dsouza&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-dsouza&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-
-
 ---
 
 ## 📫 Onde me encontrar:
